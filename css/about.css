@@ -1,0 +1,30 @@
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
+.backgroundVideo{
+	height: 355px;
+	width: 820px;
+	background-color: #F8F5FA;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+section iframe{
+	float: right;
+	padding-right: 20px;
+	border: 0px;
+	position: relative;
+	top: 20px;
+}
+
+section p{
+	width: 320px;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+

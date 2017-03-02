@@ -1,0 +1,35 @@
+
+.rotateImg1 {
+ -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+	}
+
+.rotateImg2 {
+ -ms-transform: rotate(-7deg); /* IE 9 */
+    -webkit-transform: rotate(-7deg); /* Chrome, Safari, Opera */
+    transform: rotate(-7deg);
+	}
+
+.rotateImg3 {
+ -ms-transform: rotate(12deg); /* IE 9 */
+    -webkit-transform: rotate(12deg); /* Chrome, Safari, Opera */
+    transform: rotate(12deg);
+	}
+
+.allImg {
+	margin-left: 300px;
+	margin-top: -160px;
+}
+
+section h1{
+	margin-left: 20px;
+}
+
+section p{
+	margin-left: 100px;
+}
+
+section {
+	height: 430px;
+}

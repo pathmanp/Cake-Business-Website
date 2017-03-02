@@ -1,0 +1,26 @@
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
+/* Gallery Page */
+
+table, tr, td{
+	border: 1px solid black;
+}
+
+table { 
+    margin-right: auto; /*Making the table center in the page*/
+	margin-left: auto; /*Making the table center in the page*/
+
+    border-spacing: 0; /* Making the image fit in the table without any spacing */
+    border-collapse: collapse; /* Making the image fit in the table without any spacing */
+}
+td {
+    padding:0px; /* Making the image fit in the table without any spacing */
+}
+td img {
+    display:block; /* Making the image fit in the table without any spacing */
+}

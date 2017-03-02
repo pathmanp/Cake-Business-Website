@@ -1,0 +1,23 @@
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+section{
+	background-color: #F5EACB;
+	width: 1030px;
+	float: none;
+	padding-left:45px;
+	padding-right:0px;
+}
+
+section p{
+	text-align: center;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+section iframe{
+	border:0px;
+}
